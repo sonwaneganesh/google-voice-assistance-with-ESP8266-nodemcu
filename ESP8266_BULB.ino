@@ -11,14 +11,14 @@
 #define GPIO_PIN_BULB 5
 
 // WiFi parameters
-#define WLAN_SSID       "GANESH"
-#define WLAN_PASS       "ganesh123"
+#define WLAN_SSID       "ssid" // use wifi ssid
+#define WLAN_PASS       "password" // use wifi password
 
 // Adafruit IO server details.
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "sonwaneganesh"
-#define AIO_KEY         "aio_Iurd21ADbVVpEDuLRzE7AHFex5mv"  // Obtained from account info on io.adafruit.com
+#define AIO_USERNAME    "username" // user username 
+#define AIO_KEY         "aio_key"  // use aio key Obtained from account info on io.adafruit.com
 
 
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
