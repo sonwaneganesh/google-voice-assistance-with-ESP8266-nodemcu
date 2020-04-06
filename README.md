@@ -1,6 +1,6 @@
 # Ok Google! Turn on Light
  
-# modify below parameter in source code.// WiFi parameters
+# modify below parameter in source code.
 // WiFi parameters
 #define WLAN_SSID       "SSID"  // Local WIfi SSID
 
